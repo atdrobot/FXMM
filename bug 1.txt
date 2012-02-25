@@ -1,2 +1,1 @@
 first commit with bug 1
-the bug 1 was fixed
